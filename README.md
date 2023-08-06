@@ -44,4 +44,3 @@ Thank you for exploring our Coffee Shop Sales Data Analysis project. This reposi
 
 Feel free to reach out if you have any questions or feedback. Enjoy your exploration of the project!
 
-*Project Team*
